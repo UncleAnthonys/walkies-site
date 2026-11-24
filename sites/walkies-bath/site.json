@@ -1,0 +1,541 @@
+{
+  "name": "Walkies Secure Dog Paddock",
+  "shortName": "Walkies",
+  "domain": "https://www.walkiesbath.co.uk",
+  "metaDescription": "Private, secure dog walking fields in Bathampton and Bradford on Avon, Bath. Fully enclosed with 6ft fencing, sensory gardens and agility equipment.",
+  "logo": "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/b924cedb-8487-4968-8ff4-e1dca21ac3e4/Walkies+secure+dog+paddock-01+copy.png",
+  "shareImage": "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/1694778490730-FRL1OTR9FQOVV8N7BHA5/walkies-0009-Pano-DeNoiseAI-standard.jpg",
+  "theme": {
+    "headingFont": "Poppins",
+    "bodyFont": "Lato",
+    "accent": "#2f5d3a",
+    "accentText": "#ffffff",
+    "ink": "#1d1d1b",
+    "muted": "#5c5c57",
+    "paleBg": "#f3f1ea",
+    "footerBg": "#1f2b22",
+    "footerInk": "#e9ece6"
+  },
+  "contact": {
+    "email": "walkiesbath@outlook.com",
+    "phone": "07531 735021",
+    "altPhone": "07532 263965",
+    "hours": "Monday – Sunday: 7am – 8pm"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/walkiesbath",
+    "instagram": "https://www.instagram.com/walkiesbath/"
+  },
+  "booking": {
+    "embedUrl": "",
+    "fallbackUrl": "https://walkiesbath.as.me/"
+  },
+  "home": {
+    "heroImage": "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/1694778490730-FRL1OTR9FQOVV8N7BHA5/walkies-0009-Pano-DeNoiseAI-standard.jpg",
+    "heroTitle": "Private, Secure Dog Walking Fields in Bathampton and Bradford on Avon",
+    "intro": [
+      "Walkies offers purpose-built, fully enclosed dog walking fields with 6ft high secure fencing, so your dog can run, sniff and play off lead in complete safety.",
+      "Each field is hired exclusively, so it's just you and your dogs. Both paddocks have a sensory garden full of plants and scents to explore, plus agility equipment for dogs who love to be active.",
+      "Join us at Walkies for an exceptional dog walking experience."
+    ],
+    "steps": [
+      {
+        "title": "Book online.",
+        "text": "Head to our Book Now page, pick your paddock, date and time, then continue to payment. You'll receive a confirmation email straight away.",
+        "image": "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/1642597434833-V5RZDZOUZ8X86951FLEE/Screen+Shot+2022-01-19+at+13.02.01.png"
+      },
+      {
+        "title": "On arrival.",
+        "text": "On the day of your visit you'll be emailed the code for the entrance gate. Enter the code and park in the designated area.",
+        "image": "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/1642597607566-SSH7ZH98Z3UFB7B835ER/119BBBD3-4168-4BBB-BCB8-64F5E68ED75E.JPG"
+      },
+      {
+        "title": "Enjoy your visit.",
+        "text": "You have sole use of the paddock for your 50-minute session. Please leave on time and make sure all gates are shut behind you.",
+        "image": "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/1642597741746-6ROETVV010X8YVQ7EZ6X/IMG_2607.PNG"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Pam",
+        "text": "Completely secure, lovely size and had a sandpit."
+      },
+      {
+        "name": "Kim",
+        "text": "It was perfectly secure and I shall certainly be booking again."
+      },
+      {
+        "name": "Kirsty",
+        "text": "It is very secure, lots of interesting things for dogs to see, smell and experience."
+      }
+    ]
+  },
+  "paddocks": [
+    {
+      "slug": "bathampton",
+      "name": "Bathampton",
+      "intro": [
+        "Bathampton was our first secure dog walking field, opened in February 2022. It's around five minutes from central Bath and easy to reach from the surrounding towns and villages.",
+        "The paddock is around three acres of grassland fully enclosed by 1.8m (6ft) fencing — perfect for off-lead exercise and training, with lovely views over Bath and the city skyline."
+      ],
+      "featuresTitle": "In the paddock",
+      "features": [
+        "Sand pit",
+        "Log scatter",
+        "Dog walk",
+        "Tunnel mound",
+        "Scent wall",
+        "Sensory planting"
+      ],
+      "rules": [
+        "Up to 6 dogs and 1 vehicle per booking.",
+        "Shelter, a water source for washing down and fresh drinking water on site.",
+        "Poo bags and a bin are provided — <strong>please clear up after your dogs.</strong>"
+      ],
+      "note": "Please note the field is on a hill and the ground is uneven, so it may not suit everyone.",
+      "prices": [
+        {
+          "label": "1 – 2 dogs",
+          "price": "£12"
+        },
+        {
+          "label": "3 – 4 dogs",
+          "price": "£15"
+        },
+        {
+          "label": "5 – 6 dogs",
+          "price": "£18"
+        }
+      ],
+      "priceNote": "All sessions are 50 minutes. Discounted weekday bookings are available when you buy in bulk.",
+      "address": "Walkies Secure Dog Paddock, Warminster Rd, Bath, BA2 6XJ",
+      "what3words": "audio.dunes.pillow",
+      "directions": "Access the field via the bridleway on the left of the Scout Hut.",
+      "directionsImage": "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/a0797654-a0a0-4970-8ec8-c131d7928798/Screen+Shot+2022-12-20+at+18.43.31.png",
+      "mapQuery": "Warminster Rd, Bath BA2 6XJ",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/40df4b38-da41-4255-b4bf-84fd34c25d18/walkies-8990-DeNoiseAI-standard.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/3db0915c-85fa-46eb-9a40-963a2658223a/walkies-0270-Edit-DeNoiseAI-standard.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/d8e4734e-c0be-471a-b06c-ea8118996790/walkies-0207-DeNoiseAI-standard.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/16571729-5328-40f5-b9e0-a924f2fe8aa5/walkies-9068-DeNoiseAI-standard.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/ec15b13c-0a09-43bc-86f8-ac1746e01408/walkies-8882-DeNoiseAI-standard.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/ba4b74ae-c737-4af7-904d-c1cb88490912/walkies-9020-DeNoiseAI-standard.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/d8ff59a1-b6be-495f-9b52-904728e9a973/walkies-0060-DeNoiseAI-standard.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/6400be3b-e6a4-4257-8233-a8dfa9b28206/walkies-0163-DeNoiseAI-standard.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/b5dec7fd-c9ea-4502-9aae-0ab729436d25/walkies-9047-DeNoiseAI-standard.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/d0d05206-59f0-401a-91f6-6a6a84d73230/IMG_4515.JPG"
+      ]
+    },
+    {
+      "slug": "bradford-on-avon",
+      "name": "Bradford on Avon",
+      "intro": [
+        "Our newest secure dog walking field sits about five minutes north of Bradford on Avon, Wiltshire — within easy reach of Trowbridge, Chippenham, Melksham, Frome, Westbury and Holt.",
+        "The paddock is around two acres of flat grassland surrounded by farmland and fully enclosed by 1.8m (6ft) fencing — ideal for off-lead exercise and training."
+      ],
+      "featuresTitle": "In the paddock",
+      "features": [
+        "Sand pit",
+        "Tyre obstacle",
+        "Log scatter",
+        "Cable reels",
+        "Jumps",
+        "Weaving poles",
+        "A-frame",
+        "Seesaw",
+        "Scent wall",
+        "Tree trunks"
+      ],
+      "rules": [
+        "Up to 6 dogs per booking, no limit on vehicles (please never park on the grass).",
+        "Shelter, a water source for washing down and fresh drinking water on site.",
+        "Poo bags and a bin are provided — <strong>please clear up after your dogs.</strong>"
+      ],
+      "note": "",
+      "prices": [
+        {
+          "label": "1 – 2 dogs",
+          "price": "£10"
+        },
+        {
+          "label": "3 – 4 dogs",
+          "price": "£12"
+        },
+        {
+          "label": "5 – 6 dogs",
+          "price": "£14"
+        }
+      ],
+      "priceNote": "All sessions are 50 minutes. Discounted weekday bookings are available when you buy in bulk.",
+      "address": "Walkies Secure Dog Paddock, Lower South Wraxall, Bradford on Avon, BA15 2RR",
+      "what3words": "pokes.customers.convey",
+      "directions": "Turn off the B3109 — the field entrance is about 250ft further on, on the left.",
+      "directionsImage": "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/de9119fc-daea-41db-8446-9e16bc6c7104/road+shot.png",
+      "mapQuery": "Lower South Wraxall, Bradford on Avon BA15 2RR",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/e996778a-7a78-4e0f-aa2e-38ea1541112d/walkies+fb3+copy.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/fe0b6214-861b-4147-8da4-e1a321563d07/walkies+fb1.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/1694778490730-FRL1OTR9FQOVV8N7BHA5/walkies-0009-Pano-DeNoiseAI-standard.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/a9a52279-028c-4eeb-a6ab-d9b397a64368/walkies-9731.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/02d95c0a-76c8-44d9-a80a-0d9b96de3eaf/walkies+fb4.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/9ddc4fc0-e15e-42cd-bd6d-a776e40cee7c/WalkiesPaddock-0600-DeNoiseAI-standard.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/e10b1eda-45c1-43cb-92ce-7655e98d9f8d/untitled+shoot-0152.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/e9c64803-ab12-42c8-b549-534045278657/untitled+shoot-7431.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/30034d80-d81b-41c0-a763-a5d64786194f/untitled+shoot-7578.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/45ad9f71-958c-4f77-8c2b-6931df4e0749/walkies-2598-DeNoiseAI-standard.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/03140ef7-fda2-4d91-a6f8-be193fb180a3/walkies-0054.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/a1a1e4a0-dcab-479e-8590-58c9cc28e891/walkies-0021-DeNoiseAI-standard.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/7b27cacd-87eb-4db6-8a23-1dd67a31998c/walkies-0038-DeNoiseAI-standard.jpg",
+        "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/3e8b4b96-0431-42f8-b167-f946a591fb25/boa+paddock+4.jpeg"
+      ]
+    }
+  ],
+  "gallery": [
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/ba4b74ae-c737-4af7-904d-c1cb88490912/walkies-9020-DeNoiseAI-standard.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/561fab1f-1af0-4b93-997a-18ba2dcc74cf/walkies-0155-DeNoiseAI-standard.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/40df4b38-da41-4255-b4bf-84fd34c25d18/walkies-8990-DeNoiseAI-standard.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/b5dec7fd-c9ea-4502-9aae-0ab729436d25/walkies-9047-DeNoiseAI-standard.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/fbd988af-25f8-43da-acd8-398ef2c89847/walkies-9068-DeNoiseAI-standard+%281%29.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/d8ff59a1-b6be-495f-9b52-904728e9a973/walkies-0060-DeNoiseAI-standard.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/6400be3b-e6a4-4257-8233-a8dfa9b28206/walkies-0163-DeNoiseAI-standard.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/d8e4734e-c0be-471a-b06c-ea8118996790/walkies-0207-DeNoiseAI-standard.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/ec15b13c-0a09-43bc-86f8-ac1746e01408/walkies-8882-DeNoiseAI-standard.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/3db0915c-85fa-46eb-9a40-963a2658223a/walkies-0270-Edit-DeNoiseAI-standard.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/b21c183c-9c88-4a4b-9cda-91c054fb10b7/IMG_4515.JPG",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/676e3cb2-c412-45ec-bd93-c66958e3057c/walkies+fb2.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/3ef08a2b-47ef-4586-94a7-b5a369233ba0/IMG_9137.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/e9c64803-ab12-42c8-b549-534045278657/untitled+shoot-7431.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/e10b1eda-45c1-43cb-92ce-7655e98d9f8d/untitled+shoot-0152.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/1694778490730-FRL1OTR9FQOVV8N7BHA5/walkies-0009-Pano-DeNoiseAI-standard.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/03140ef7-fda2-4d91-a6f8-be193fb180a3/walkies-0054.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/02d95c0a-76c8-44d9-a80a-0d9b96de3eaf/walkies+fb4.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/7b27cacd-87eb-4db6-8a23-1dd67a31998c/walkies-0038-DeNoiseAI-standard.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/a1a1e4a0-dcab-479e-8590-58c9cc28e891/walkies-0021-DeNoiseAI-standard.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/45ad9f71-958c-4f77-8c2b-6931df4e0749/walkies-2598-DeNoiseAI-standard.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/30034d80-d81b-41c0-a763-a5d64786194f/untitled+shoot-7578.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/c95a1306-2aab-4329-8f12-92dbf65ef6fc/545604dd-9e1d-4c2b-8f8c-ccfa60d8697b.JPG",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/9ddc4fc0-e15e-42cd-bd6d-a776e40cee7c/WalkiesPaddock-0600-DeNoiseAI-standard.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/a9a52279-028c-4eeb-a6ab-d9b397a64368/walkies-9731.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/e996778a-7a78-4e0f-aa2e-38ea1541112d/walkies+fb3+copy.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/fe0b6214-861b-4147-8da4-e1a321563d07/walkies+fb1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/4529f3a2-43bb-4ee7-8646-8e8de43456a6/walkies-0233-DeNoiseAI-standard.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/9c28ba84-fc8f-41bd-b150-3b0628685882/IMG_3546.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/c2266158-fa7f-46d0-8d76-d293bedbf51c/PHOTO-2023-04-19-16-55-26.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/8ce28db8-66e2-44c2-9d8b-4adeea507bd4/BOA3.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/0571fb02-b230-49b1-b905-f332b5aba7e7/BOA1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/73de0084-3b5d-4361-849d-d6d7e25edee1/IMG_4203.JPG",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/d0d05206-59f0-401a-91f6-6a6a84d73230/IMG_4515.JPG",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/9ede531b-bcae-4648-aff5-23a396b85bad/BOA4.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/6da603b1-ef78-4c85-bfe3-b067cd0be6dd/IMG_0462.JPG",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/5ba6323e-09a9-4c7a-98d6-4786887b4545/IMG_0180.JPG",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/48c13d24-0e6f-4029-9c00-fbd870b39c1b/IMG_0468.JPG",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/55f350e6-ad95-4ae5-8ef8-99e87c3914b7/IMG_0467.JPG",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/51c71e8b-5a3e-4336-bf73-01a354cca240/IMG_0464.JPG",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/cc5ec2e5-573f-4cac-ae85-3a700cf2e04f/boa+paddock+4.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/fa1a2896-3013-40d3-bf66-0f5d2fa9bd0c/IMG_0474.JPG"
+  ],
+  "sensoryGarden": {
+    "intro": "Our sensory gardens are designed to enrich and stimulate your dog while they're at the paddock, with a variety of smells and textures to engage all the senses.",
+    "sections": [
+      {
+        "title": "Sniffing and enrichment",
+        "text": "Research suggests regular sniffing can help reduce stress, anxiety and reactive behaviour. Try scattering your dog's favourite treats among the logs and stones so they can hunt them out by scent."
+      },
+      {
+        "title": "Plant self-medication",
+        "text": "Dogs are thought to choose plants based on their physical and emotional needs. Our garden includes plants believed to help relax anxious, hyperactive or stressed dogs, and others associated with skin irritation, stomach upsets, hormonal imbalance, digestive or urinary problems and inflammation. Your dog may simply sniff them, or have a nibble."
+      }
+    ],
+    "plantsTitle": "Plants you may find (depending on the season)",
+    "plants": [
+      [
+        "Catnip",
+        "Said to relax dogs and encourage playfulness."
+      ],
+      [
+        "Chamomile",
+        "Often sought out by dogs with anxiety, or skin or stomach upsets."
+      ],
+      [
+        "Clary sage",
+        "Thought to suit highly strung dogs and those with hormonal imbalance."
+      ],
+      [
+        "Hops",
+        "Calming — often chosen by hyperactive and stressed dogs."
+      ],
+      [
+        "Lavender",
+        "Believed to reduce anxiety and other nervous conditions."
+      ],
+      [
+        "Marigolds",
+        "Said to attract dogs experiencing grief or emotional distress."
+      ],
+      [
+        "Mint",
+        "Cooling — often chosen by dogs with skin irritations."
+      ],
+      [
+        "Rosemary",
+        "Thought to support digestion by helping keep harmful bacteria out of the gut."
+      ],
+      [
+        "Thyme",
+        "Often chosen by dogs with bacterial infections, skin irritation or diarrhoea."
+      ],
+      [
+        "Valerian",
+        "Favoured by anxious dogs for its calming effect."
+      ],
+      [
+        "Vervain",
+        "Traditionally valued for nervous system complaints."
+      ],
+      [
+        "Violets",
+        "Said to appeal to nervous dogs, or those who've recently moved home."
+      ]
+    ],
+    "images": [
+      "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/2939d216-1fc2-4b4e-9365-b0ea44d83abe/IMG_9560.JPG",
+      "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/c95a1306-2aab-4329-8f12-92dbf65ef6fc/545604dd-9e1d-4c2b-8f8c-ccfa60d8697b.JPG",
+      "https://images.squarespace-cdn.com/content/v1/61a8d8fbade3f0330a8294ad/7906e0f1-c6af-4df9-8817-7f4ac681539e/IMG_0162.JPG"
+    ]
+  },
+  "bookingInfo": [
+    "Each booking is 50 minutes and gives you exclusive use of the paddock. Loading your dogs back into the car is included in that time.",
+    "There's a 10-minute gap between bookings so everyone can arrive and leave safely — please don't arrive more than 5 minutes early.",
+    "Bathampton allows a maximum of one vehicle per booking.",
+    "Weekday packages: after buying a package you'll be emailed a certificate code. Use the \"Schedule\" link in that email to book each session.",
+    "To change or cancel, use the \"Change/Cancel Appointment\" link in your confirmation email. Cancellations made at least 24 hours in advance are refunded, minus a small booking fee."
+  ],
+  "faqs": [
+    [
+      "How much does it cost to hire?",
+      "Bradford on Avon is £10 – £14 and Bathampton is £12 – £18, depending on how many dogs you bring. Every session is 50 minutes."
+    ],
+    [
+      "Will I be sharing the field?",
+      "No — every booking is private, so you'll have the field to yourself for your session."
+    ],
+    [
+      "What are your opening hours?",
+      "We're open 7am – 8pm, Monday to Sunday. Available slots vary through the year with daylight."
+    ],
+    [
+      "How do I get the gate code?",
+      "Your gate code is emailed to you 2 hours before your booking. Codes are changed regularly."
+    ],
+    [
+      "How high is the fence?",
+      "6ft, with mesh gaps of 10cm x 5cm."
+    ],
+    [
+      "My coupon code isn't working?",
+      "Package sessions are booked using the link in your Order Receipt email rather than with a coupon at checkout."
+    ],
+    [
+      "How many people can come?",
+      "There's no limit on people, but Bathampton allows one vehicle per booking."
+    ],
+    [
+      "How long is a session?",
+      "50 minutes, which includes loading your dogs back into the car."
+    ],
+    [
+      "How big are the paddocks?",
+      "Bathampton is around 3 acres and Bradford on Avon is around 2 acres."
+    ],
+    [
+      "How many dogs can I bring?",
+      "Up to six dogs per booking."
+    ],
+    [
+      "Can I get a refund if I cancel?",
+      "Yes — cancel more than 24 hours before your booking for a full refund, minus a small booking fee."
+    ],
+    [
+      "Can I reschedule?",
+      "Yes, up to 24 hours before your appointment."
+    ],
+    [
+      "Is there water?",
+      "Both paddocks have water on site. You're always welcome to bring your own too."
+    ],
+    [
+      "What's the ground like?",
+      "Bradford on Avon is flat. Bathampton is on a slope and the ground is uneven."
+    ],
+    [
+      "Do you allow professional dog walkers?",
+      "Yes — please message us first. All dogs must be fully vaccinated."
+    ],
+    [
+      "Are there floodlights?",
+      "No, we're only open during daylight hours."
+    ],
+    [
+      "Are there toilets?",
+      "Sorry, there are no toilets on site."
+    ],
+    [
+      "What about dog poo?",
+      "Free poo bags are provided and there's a bin at the entrance. CCTV is in use and anyone who doesn't clean up after their dog will be banned."
+    ],
+    [
+      "How do I pay?",
+      "By card through our online booking system."
+    ],
+    [
+      "Can I bring a friend's dog?",
+      "Only if the dogs already know each other. The one-vehicle limit still applies at Bathampton."
+    ],
+    [
+      "How far ahead can I book?",
+      "Up to 8 weeks in advance."
+    ],
+    [
+      "What if the weather's bad?",
+      "Please check the forecast the day before. If you reschedule more than 24 hours ahead there's no charge. If we ever need to cancel, we'll contact you."
+    ],
+    [
+      "Can I smoke or vape?",
+      "No, smoking and vaping aren't permitted."
+    ],
+    [
+      "Is there a gap between sessions?",
+      "Yes, 10 minutes, so customers can enter and leave safely."
+    ],
+    [
+      "Is there wheelchair access?",
+      "Bathampton isn't suitable for wheelchairs. Bradford on Avon is accessible, weather permitting."
+    ],
+    [
+      "Do dogs need to be vaccinated?",
+      "Yes. All dogs must be fully vaccinated and regularly treated for fleas, ticks and worms."
+    ],
+    [
+      "What if there's a problem?",
+      "Message us on Facebook Messenger or give us a call."
+    ],
+    [
+      "Is there shelter?",
+      "Yes, there's a shelter for sun and rain."
+    ],
+    [
+      "Will there be animals nearby?",
+      "There are no farm animals in neighbouring fields, but you may see wildlife. Owners are responsible for any damage if their dog escapes."
+    ],
+    [
+      "How do I find you?",
+      "See our Find Us page. Bathampton is reached via a bridleway and Bradford on Avon is just off the B3109."
+    ],
+    [
+      "Where do I park?",
+      "Bathampton has a secure car park for one car per booking. At Bradford on Avon you can park inside and release your dogs once you're parked."
+    ],
+    [
+      "Can I bring children?",
+      "Yes, but under 16s must be accompanied by an adult. Parents are responsible for their children and we're not liable for any accidents."
+    ],
+    [
+      "Can I leave my dog in the paddock?",
+      "No — dogs must never be left unattended under any circumstances."
+    ],
+    [
+      "What if the previous booking overruns?",
+      "Stick to your own exit time and let us know about any issues afterwards."
+    ],
+    [
+      "My dog has been unwell — can we still come?",
+      "Dogs must be free of diarrhoea or vomiting for at least 48 hours before visiting. Please reschedule with 24 hours' notice, or contact us if it's shorter notice."
+    ],
+    [
+      "Do you provide toys or balls?",
+      "No, but you're welcome to bring your own — please take them home with you and clear any debris."
+    ]
+  ],
+  "terms": [
+    [
+      "Entering & exiting the field",
+      "Please arrive on time for your slot. Your 50-minute session includes loading dogs back into your vehicle. Use the gate code provided, keep gates shut at all times and keep dogs on a lead when entering and leaving. Please report anyone who overruns their booking."
+    ],
+    [
+      "Code of ethics",
+      "Clear up after your dog and use the bin provided. Discourage digging, take away all litter and toys, and don't smoke. No harsh handling of dogs. Please respect our neighbours. Dogs that are unwell must not attend, and all dogs must be vaccinated and treated for parasites. Trainers and walkers must hold appropriate insurance."
+    ],
+    [
+      "Booking & cancellations",
+      "All bookings must be made and paid for in advance through the website. Please be honest about the number of dogs and tell us of any changes. Prices are charged on three tiers by number of dogs. You may cancel or reschedule up to 24 hours before your booking."
+    ],
+    [
+      "Fencing",
+      "Fencing is inspected regularly — please report any damage straight away. Walkies is not responsible for escapes or encounters between dogs except where caused by our negligence."
+    ],
+    [
+      "Child safety",
+      "Children must be supervised at all times. The field is not designed as a child-safe area and climbing on equipment or fences is prohibited. Under 16s must be accompanied by an adult."
+    ],
+    [
+      "Number of cars, people & dogs",
+      "One vehicle per booking at Bathampton. No vehicle limit at Bradford on Avon, but vehicles must never be driven or parked on the grass. There is no limit on people and a maximum of six dogs per booking. By booking you agree to these terms."
+    ],
+    [
+      "Parking & valuables",
+      "Vehicles are parked at the owner's risk and only in the designated area. We accept no responsibility for damage to or loss from vehicles."
+    ],
+    [
+      "Maintenance and health & safety",
+      "Drinking water and a waste bin are provided. Be aware of normal countryside hazards and wear suitable footwear. Take all toys and balls home. Restricted items must not be brought on site. Dogs must not be tethered or left unattended and must be under their owner's control at all times."
+    ],
+    [
+      "Withdrawal of facility",
+      "We may withdraw access due to weather, maintenance or non-compliance with these terms. Any refund is limited to advance payments."
+    ],
+    [
+      "Right of entry",
+      "We may inspect the site at any time. Our decisions on safety are final and we reserve the right to refuse entry or ask anyone to leave."
+    ],
+    [
+      "Illness and infection control",
+      "Dogs must be up to date with vaccinations (including kennel cough), worming and flea and tick treatment. Please cancel your booking if your dog shows any sign of illness."
+    ],
+    [
+      "Emergencies",
+      "We may cancel bookings due to emergencies or events outside our control, in which case fees will be refunded."
+    ],
+    [
+      "Variations to the agreement",
+      "These terms may change and we'll notify customers by email. Bookings are subject to the terms shown on the site at the time of booking."
+    ],
+    [
+      "Personal data",
+      "We collect your name, mobile number, postal address and email address. These are used to send booking confirmations and gate codes and are stored with our booking provider."
+    ],
+    [
+      "Preservation of rights",
+      "No rights over the land are granted by a booking. The landowner retains control and possession of the land at all times."
+    ],
+    [
+      "Personal responsibilities",
+      "We accept no liability for loss, injury or death except where caused by our negligence or wilful misconduct."
+    ],
+    [
+      "At your own risk",
+      "The field contains natural hazards such as uneven ground and falling branches. Use of the field is entirely at your own risk and the landowner accepts no liability. You are responsible for any friends or family you bring. Please report any incident to us by phone."
+    ],
+    [
+      "Declarations",
+      "By booking you agree to follow these rules, accept sole responsibility for yourself and your dogs, and waive any claims against Walkies or the landowner."
+    ]
+  ],
+  "xlBullyTerms": {
+    "intro": "From 31 December 2023 the following terms apply to all XL Bully dogs using our Bathampton paddock.",
+    "items": [
+      "XL Bullies must be kept on a lead and muzzled in the car park area.",
+      "The lead and muzzle may only be removed once the dog is inside the paddock and the pedestrian gate into the paddock has been shut.",
+      "The dog must be put back on a lead and muzzled before leaving the paddock."
+    ]
+  }
+}

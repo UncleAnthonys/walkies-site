@@ -1,0 +1,38 @@
+name: Build & deploy
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      # Downloads any photos not yet saved in the repo (from Squarespace) and builds the site
+      - run: node build.js walkies-bath --fetch
+      # Save downloaded photos into the repo so the site never depends on Squarespace again
+      - name: Commit images
+        run: |
+          git config user.name "walkies-bot"
+          git config user.email "walkies-bot@users.noreply.github.com"
+          git add sites/*/images
+          git diff --cached --quiet || (git commit -m "Save site images [skip ci]" && git push)
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/walkies-bath
+      - id: deployment
+        uses: actions/deploy-pages@v4
